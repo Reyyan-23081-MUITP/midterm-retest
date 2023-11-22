@@ -1,0 +1,59 @@
+#photo{
+    resize: both;
+    size: 50vh;
+}
+
+#your-name{
+    position: relative;
+    left: 22.5%;
+
+}
+
+#Free{
+
+    color: orange;
+    position: relative;
+    left: 22.5%;
+
+}
+
+#desc{
+    position: relative;
+    left: 22.5%;
+}
+
+#DOB{
+    padding-top: 2%;
+    position: relative;
+    left: 22.5%;
+}
+
+#birth{
+ position: relative;
+ left: 22.5%;
+ color: grey;
+}
+
+#country{
+
+    position:relative;
+    left: 40%;
+    top: 50%;
+
+}
+
+#nation{
+    position: relative;
+    left: 40%;
+    color: grey;
+}
+
+#speak{
+    position: relative;
+    left: 55%;
+}
+#lang{
+    position: relative;
+    left: 55%;
+    color: grey;
+}
